@@ -3,9 +3,9 @@ githubRepoName: spr-tool
 githubHost: github.com
 githubRemote: origin
 githubBranch: main
-requireChecks: true
-requireApproval: true
-mergeMethod: rebase
+requireChecks: false
+requireApproval: false
+mergeMethod: merge
 mergeQueue: false
 forceFetchTags: false
 showPrTitlesInStack: false
